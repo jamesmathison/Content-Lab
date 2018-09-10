@@ -54,15 +54,6 @@ a {
       margin-left: 0; } }
 
 
-
-.square {
-        width: 200px;
-        height: 200px;
-        margin: -8px; /* remove this when putting up elsewhere */
-        background: #19253c;  
-}
-
-
 .page-header {
   color: #fff;
   text-align: center;
